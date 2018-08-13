@@ -1,8 +1,6 @@
 ![icon](assets/icon.png)
 
-- iOS: ***
-- Android: ***
-- Web: ***
+- [iOS App](https://itunes.apple.com/us/app/scorepond/id1423469382?ls=1&mt=8)
 
 ## Contact
 
