@@ -1,4 +1,4 @@
-![icon]({{ site.url }}/assets/icon.png)
+![icon](assets/icon.png)
 
 - iOS: ***
 - Android: ***
