@@ -5,7 +5,6 @@
 ## Contact
 
 - [@miso_soup3](https://twitter.com/miso_soup3)
-- [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfRUBT1zlAKi7FBVZD-0ySSqOgaFkSqjlzPyhBJiv9iuU15Hg/viewform)
 
 ## Music
 
@@ -63,4 +62,3 @@
 - Note Designer: @miso_soup3
 - Background Image: @miso_soup3
 - Score: [MuseScore](https://musescore.com/thebiblobiblo/scores/5194904)
-
