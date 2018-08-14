@@ -62,3 +62,7 @@
 - Note Designer: @miso_soup3
 - Background Image: @miso_soup3
 - Score: [MuseScore](https://musescore.com/thebiblobiblo/scores/5194904)
+
+## Privacy Policy
+
+- [Privacy Policy](policy)
