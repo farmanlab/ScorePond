@@ -63,6 +63,17 @@
 - Background Image: @miso_soup3
 - Score: [MuseScore](https://musescore.com/thebiblobiblo/scores/5194904)
 
+## Assets
+
+- [Water Splash Pack \- Asset Store](https://assetstore.unity.com/packages/audio/sound-fx/foley/water-splash-pack-14039)
+- [効果音ラボ \- フリー、商用無料、報告不用の効果音素材をダウンロード](https://soundeffect-lab.info/)
+- [FLAT ICON DESIGN \-フラットアイコンデザイン\-](http://flat-icon-design.com/)
+
+### Fonts
+
+- [Alegreya Sans SC \- Google Fonts](https://fonts.google.com/specimen/Alegreya+Sans+SC)
+- [Andada \- Google Fonts](https://fonts.google.com/specimen/Andada?selection.family=Andada)
+
 ## Privacy Policy
 
 - [Privacy Policy](policy)
