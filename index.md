@@ -2,9 +2,16 @@
 
 - [iOS App](https://itunes.apple.com/us/app/scorepond/id1423469382?ls=1&mt=8)
 - [Android App](https://play.google.com/store/apps/details?id=com.miso.ScorePond)
-- [PC Web][ScorePond \| unityroom ](https://unityroom.com/games/scorepond)
+- [PC Web](https://unityroom.com/games/scorepond)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DDHa0Sxomqw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## 特徴
+
+- 「音ゲーに楽譜を取り込む」をテーマにしたリズムゲーム。まるで楽譜を読むかのように、音符が流れてきます。
+- 曲は全て、素材として公開されている MIDI ファイルを使用しています。
+  - 利用規約を守り、著作権を表示します。
+- ノーツの譜面は楽譜として MuseScore に公開します。
 
 ## Contact
 
