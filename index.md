@@ -17,6 +17,15 @@
 
 - [@miso_soup3](https://twitter.com/miso_soup3)
 
+## History
+
+- 2018/9/15 [デジゲー博2018](http://digigame-expo.org/) B-14a 参加します
+- 2018/8/23 Blog:[音ゲー「音符池」で休符の矛盾にどう向き合ったか \- miso\_soup3 Blog](http://miso-soup3.hateblo.jp/entry/2018/08/23/140121)
+- 2018/8 Release 1.1
+  - 曲「Fairy」を追加。
+- 2018/8 [Release 0.3](https://twitter.com/miso_soup3/status/1029916733870563328)
+- 2018/7 Prototype: [ゲーム「楽譜で音ゲー」を Unity で作った話 \- miso\_soup3 Blog](http://miso-soup3.hateblo.jp/entry/2018/07/27/163351)
+
 ## Music
 
 ### Piano 03
@@ -101,13 +110,6 @@
 - [Alegreya Sans SC \- Google Fonts](https://fonts.google.com/specimen/Alegreya+Sans+SC)
 - [Andada \- Google Fonts](https://fonts.google.com/specimen/Andada?selection.family=Andada)
 - [機械彫刻用標準書体フォント](http://font.kim/)
-
-## History
-
-- 2018/8 Release 1.1
-  - 曲「Fairy」を追加。
-- 2018/8 [Release 0.3](https://twitter.com/miso_soup3/status/1029916733870563328)
-- 2018/7 Prototype: [ゲーム「楽譜で音ゲー」を Unity で作った話 \- miso\_soup3 Blog](http://miso-soup3.hateblo.jp/entry/2018/07/27/163351)
 
 ## Privacy Policy
 
